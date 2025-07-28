@@ -45,7 +45,7 @@ export default function Blog() {
     },
     {
       title: "Recent Projects",
-      description: "A glimpse of what I'm building now.",
+      description: "A glimpse of what I&apos;m building now.",
     },
   ];
 
@@ -69,9 +69,9 @@ export default function Blog() {
           <div>
             <h1 className="text-4xl font-bold mb-6 text-white">About Me</h1>
             <p className="mb-4 leading-relaxed max-w-xl text-white">
-              I'm a front-end developer focused on building fast, accessible,
-              and visually appealing web apps using modern tools like{" "}
-              <strong>React</strong>, <strong>Next.js</strong>, and{" "}
+              I&apos;m a front-end developer focused on building fast,
+              accessible, and visually appealing web apps using modern tools
+              like <strong>React</strong>, <strong>Next.js</strong>, and{" "}
               <strong>Tailwind CSS</strong>.
             </p>
             <h2 className="text-2xl font-semibold mb-2 text-white">Skills</h2>
