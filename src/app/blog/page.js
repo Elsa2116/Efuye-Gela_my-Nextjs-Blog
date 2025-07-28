@@ -45,7 +45,7 @@ export default function Blog() {
     },
     {
       title: "Recent Projects",
-      description: "A glimpse of what I’m building now.",
+      description: "A glimpse of what I'm building now.",
     },
   ];
 
